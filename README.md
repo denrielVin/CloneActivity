@@ -202,7 +202,7 @@ Find a full list of used third-party libraries in the license information dialog
   <a href="https://crowdin.com"> <img src="https://crowdin.com/images/crowdin-logo.svg" alt="Translation by Crowdin" /> </a> <br>
 </p>
 
-
+NEW CHANGESSSSSS
 <!-- License -->
 ## :warning: License
 
